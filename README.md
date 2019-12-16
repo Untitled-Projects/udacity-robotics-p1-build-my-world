@@ -2,10 +2,8 @@ Udacity Robotics Software Engineer Nanodegree
 Project 1 Build My World by Michael Strobl
 
 The following is included:
-- Gazebo building with 1 floor
-- 2 Robots 
+- Gazebo building with 1 floor (model/mybuilding)
+- 1 Robot inserted two times (model/myrobot)
+- Additional resources from the Gazebo Online Library 
 - C++ Plugin Script with the message: 'Hello to Michael's World'
-
-Source of furniture models:
-http://data.nvision2.eecs.yorku.ca/3DGEMS/
 
