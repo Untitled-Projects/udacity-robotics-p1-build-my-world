@@ -7,3 +7,9 @@ The following is included:
 - Additional resources from the Gazebo Online Library 
 - C++ Plugin Script with the message: 'Hello to Michael's World'
 
+To start the code:
+
+$ cd build/
+$ cmake ../
+$ make 
+$ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/myrobot/build
