@@ -9,6 +9,7 @@ The following is included:
 
 To start the code:
 ```
+$ mkdir build
 $ cd build/
 $ cmake ../
 $ make 
